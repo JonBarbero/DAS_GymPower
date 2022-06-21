@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182476006124",
+    "project_id": "gympower-2cc3c",
+    "storage_bucket": "gympower-2cc3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182476006124:android:de41c4ea2b722ebcc13bc9",
+        "android_client_info": {
+          "package_name": "com.example.das_gympower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182476006124-95q431b1poojk31fmgjnc1s10dhrh23d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzLjTgRwDld2DoxhxMqjuwl_PMwrB2oSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182476006124-95q431b1poojk31fmgjnc1s10dhrh23d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

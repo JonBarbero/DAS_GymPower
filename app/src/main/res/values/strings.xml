@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DAS_GymPower</string>
+    <string name="email">Email</string>
+    <string name="login">Inicia sesión</string>
+    <string name="password">Contraseña</string>
+    <string name="remember">Recordar este usuario</string>
+    <string name="signup">Regístrate</string>
+    <string name="sop_correo">Email</string>
+    <string name="username">Nombre</string>
+    <string name="noticias">Noticias</string>
+    <string name="entrenamiento">Entrenamiento</string>
+    <string name="nutricion">Nutrición</string>
+    <string name="estadofisico">Estado físico</string>
+    <string name="peso">Peso</string>
+    <string name="fisico">Registrar físico</string>
+    <string name="desc">Descripción</string>
+</resources>
